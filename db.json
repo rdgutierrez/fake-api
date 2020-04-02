@@ -33,7 +33,7 @@
             "cost": 15
         },
     ],
-    libros: [
+    "libros": [
         {
               "id": 1,
               "category": "webdevelopment",
@@ -43,7 +43,7 @@
               "cost": 15
         },
         {
-              "id: 2,
+              "id": 2,
               "category": "webdevelopment",
               "title": '50 tips de React',
               "descrption": "Lorem ipsum bla bla bla",
