@@ -1,0 +1,72 @@
+{
+"courses": [
+        {
+            "id": 1,
+            "category": "webdevelopment",
+            "title": "Crea tu Tienda en Línea",
+            "descrption": "Lorem ipsum bla bla bla",
+            "imgcover": "./assets/plantilla-cover-curso.jpg",
+            "cost": 7
+        },
+            {
+            "id": 2,
+            "category": "webdevelopment",
+            "title": "Aprende VueJs en 20 horas",
+            "descrption": "Lorem ipsum bla bla bla",
+            "imgcover": "./assets/plantilla-cover-curso.jpg",
+            "cost": 15
+        },
+            {
+            "id": 3,
+            "category": "webdevelopment",
+            "title": "Aprende AngularJs en 20 horas",
+            "descrption": "Lorem ipsum bla bla bla",
+            "imgcover": "./assets/plantilla-cover-curso.jpg",
+            "cost": 15
+        },
+            {
+            "id": 4,
+            "category": "webdevelopment",
+            "title": "Aprende React en 20 horas",
+            "descrption": "Lorem ipsum bla bla bla",
+            "imgcover": "./assets/plantilla-cover-curso.jpg",
+            "cost": 15
+        },
+    ],
+    libros: [
+        {
+              "id": 1,
+              "category": "webdevelopment",
+              "title": "50 tips de VueJS",
+              "descrption": "Lorem ipsum bla bla bla",
+              "imgcover": "./assets/plantilla-ebook.jpg",
+              "cost": 15
+        },
+        {
+              "id: 2,
+              "category": "webdevelopment",
+              "title": '50 tips de React',
+              "descrption": "Lorem ipsum bla bla bla",
+              "imgcover": "./assets/plantilla-ebook.jpg",
+              "cost": 15
+        },
+        {
+              "id": 3,
+              "category": "webdevelopment",
+              "title": `50 tips de 
+              Angular`,
+              "descrption": "Lorem ipsum bla bla bla",
+              "imgcover": "./assets/plantilla-ebook.jpg",
+              "cost": 15
+        },
+        {
+              "id": 4,
+              "category": 'webdevelopment',
+              "title": `50 tips de 
+                      Marketing Digital`,
+              "descrption": "Lorem ipsum bla bla bla",
+              "imgcover": "./assets/plantilla-ebook.jpg",
+              "cost": 15
+        },
+      ],
+}
